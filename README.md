@@ -11,5 +11,7 @@ Task 2:Student Calculator Grade
 Task 3:ATM Interface
 Created class to represent user's bank account which stores account balance. Display appropriate messsage to user based on their choosen options success or failure of their transctions.
 
+Task 4:Quiz Application
+  Store quiz quetions along with multiple choice quetions and correct answers. Keep track of users score based on correct answer.
 
    
